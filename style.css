@@ -94,8 +94,8 @@ footer{
 /* Formatierung h1 tag */
 h1 {
     color: var(--color-blue);
-    font-size: calc(1.6rem + var(--font-scale));
-    font-weight: 200; 
+    /* font-size: calc(1.6rem + var(--font-scale)); */
+    font-weight: 00; 
     line-height: var(--line);
     margin: 0;
 }
