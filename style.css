@@ -122,6 +122,7 @@ link-purple {
 }
 .link-blue {
     color: var(--color-blue);
+    text-decoration: underline;
 }
 
 .link-blue:hover {
