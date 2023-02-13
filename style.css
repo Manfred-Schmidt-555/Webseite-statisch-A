@@ -136,6 +136,7 @@ link-purple {
 
 .link-grey {
     color: var(--color-grey);
+    text-decoration: underline;
 }
 
 .link-purple:hover {
